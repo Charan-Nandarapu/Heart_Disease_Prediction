@@ -8,8 +8,6 @@ The names and social security numbers of the patients were recently removed from
 
 One file has been "processed", that one containing the Cleveland database. All four unprocessed files also exist in this directory.
 
-To see Test Costs (donated by Peter Turney), please see the folder "Costs"
-
 
 Attribute Information:
 
